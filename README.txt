@@ -1,4 +1,6 @@
 Memory-Efficient CNN with Outer-Product Layers
+Note: This project was originally developed in a Colab notebook (.ipynb) and the code has been reorganized for readability and clarity.
+
 
 Overview
 This project implements a memory-efficient convolutional neural network (CNN) for the Fashion MNIST dataset. 
